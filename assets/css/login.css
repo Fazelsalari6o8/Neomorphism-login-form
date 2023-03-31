@@ -33,6 +33,12 @@ body {
     border-radius: 50%;
 }
 
+.title {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
 .svg-icon {
     height: 22px;
 }
