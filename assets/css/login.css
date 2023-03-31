@@ -86,6 +86,7 @@ body {
     font: normal 800 1.2rem 'Open Sans';
     cursor: pointer;
     border-radius: 30px;
+    transition: 0.2s ease-in-out;
 }
 .login-btn:hover {
     background-color: #0077b6;
